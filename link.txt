@@ -1,2 +1,3 @@
 https://tableaumagic.com/double-spaced-doughnut-chart-tutorial/
+https://tableaumagic.com/radial-bar-chart-tutorial/
 https://python-graph-gallery.com/
